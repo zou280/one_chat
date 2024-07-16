@@ -1,0 +1,16 @@
+F:\one_chat\链接API\链接API\bin\Debug\链接API.exe.config
+F:\one_chat\链接API\链接API\bin\Debug\链接API.exe
+F:\one_chat\链接API\链接API\bin\Debug\链接API.pdb
+F:\one_chat\链接API\链接API\bin\Debug\Newtonsoft.Json.dll
+F:\one_chat\链接API\链接API\bin\Debug\Newtonsoft.Json.xml
+F:\one_chat\链接API\链接API\obj\Debug\one_chat.csprojResolveAssemblyReference.cache
+F:\one_chat\链接API\链接API\obj\Debug\链接API.exe
+F:\one_chat\链接API\链接API\obj\Debug\链接API.pdb
+F:\one_chat\one_chat\one_chat\bin\Debug\Newtonsoft.Json.dll
+F:\one_chat\one_chat\one_chat\bin\Debug\Newtonsoft.Json.xml
+F:\one_chat\one_chat\one_chat\obj\Debug\one_chat.csprojResolveAssemblyReference.cache
+F:\one_chat\one_chat\one_chat\bin\Debug\one_chat.exe.config
+F:\one_chat\one_chat\one_chat\bin\Debug\one_chat.exe
+F:\one_chat\one_chat\one_chat\bin\Debug\one_chat.pdb
+F:\one_chat\one_chat\one_chat\obj\Debug\one_chat.exe
+F:\one_chat\one_chat\one_chat\obj\Debug\one_chat.pdb
